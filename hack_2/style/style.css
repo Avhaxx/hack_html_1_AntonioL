@@ -1,0 +1,38 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.contenedor {
+    width: 100%;
+}
+
+.cabecera1 {
+    background-color: #93B5C9;
+    height: 20vh;
+}
+
+.cabecera2 {
+    background-color: #AB2849; 
+    height: 30vh;
+}
+
+.barras {
+    clear: both;
+}
+
+.barra {
+    background-color: #AB2849;
+    width: 75%;
+    height: 15vh; 
+    margin: 1% 0;
+    float: left;
+}
+
+.barra5 {
+    background-color: #AB2849;
+    width: 70%;
+    height: 15vh;
+    margin: 1% auto; 
+    clear: both;
+}
