@@ -1,0 +1,61 @@
+body {
+    margin: 0; 
+  }
+  
+  .contenedor {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  
+  
+  .cabecera1 {
+    background-color: #93B5C9;
+    flex: 0 0 20vh;
+  }
+  
+  .cabecera2 {
+    flex: 0 0 25vh; 
+    margin-bottom: 1%; 
+    background-color: #AB2849; 
+  }
+  
+  .cuerpo {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 10px; 
+    justify-content: center; 
+  }
+  
+  .fila {
+    display: flex;
+    gap: 5px; 
+    margin-left: 7%;
+    margin-right: 7%; 
+  }
+  
+  .barra {
+    background-color: #AB2849;
+    height: 8vh; 
+  }
+  
+  .completa {
+     
+    margin-left: 7%;
+    margin-right: 7%;
+  }
+  
+  .mitad {
+    flex: 1; 
+  }
+  
+  .barra5 {
+    background-color: #AB2849;
+    height: 40vh; 
+    flex: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+   
+  }
